@@ -1,1 +1,1 @@
-# 2D_3D_virtual_pointing
+# Summary data associated with Test Tube: Exploring sensorimotor efficiency of aiming movements in virtual environments (https://doi.org/10.31234/osf.io/m96d4) and a follow up experiment using two-dimensional aiming movements.
